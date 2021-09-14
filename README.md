@@ -1,3 +1,6 @@
 ## Park Dongho's Github
 
-## Interest : NPU Design
+## Interest
+* RTL Design
+* Design Verification
+* NPU 
