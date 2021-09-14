@@ -3,6 +3,7 @@
 * Verilog
 * System Verilog
 * C/C++
+* Python
 * Shell Script
 * tcl
 
