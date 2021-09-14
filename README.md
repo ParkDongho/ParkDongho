@@ -7,7 +7,7 @@
 * Shell Script
 * tcl
 
-## Interest
+## Skill
 * RTL Design
 * Design Verification
-* NPU 
+* NPU Design
