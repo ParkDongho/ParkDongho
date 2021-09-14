@@ -1,4 +1,4 @@
-# ParkDongho's Github
+# ParkDongho's GitHub
 
 ## Interest
 * RTL Design
