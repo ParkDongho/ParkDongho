@@ -11,3 +11,4 @@
 * RTL Design
 * Design Verification
 * NPU Design
+* PIM Design
