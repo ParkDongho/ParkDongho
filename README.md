@@ -1,14 +1,6 @@
 # ParkDongho's GitHub
-## Language
-* Verilog
-* System Verilog
-* C/C++
-* Python
-* Shell Script
-* tcl
+AI H/W Designer
 
 ## Research Interest
-* RTL Design
-* Design Verification
 * NPU Design
 * PIM Design
