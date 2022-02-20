@@ -5,3 +5,6 @@ AI H/W Designer
 * SoC Design
 * NPU Design
 * Deep Learning Model Compression
+
+## Publication
+* 
