@@ -6,5 +6,8 @@ AI H/W Designer
 * NPU Design
 * Deep Learning Model Compression
 
+## Projects
+
 ## Publication
 * 
+
