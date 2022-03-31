@@ -7,7 +7,7 @@ AI-Chip Architect
 * Deep Learning Model Compression
 
 ## Projects
-* "A Block Floating Point Quantized Convolutional Neural Network Accelerator", 2020 인공지능 반도체 설계 경진 대회, 우수상
+* "A Block Floating Point Quantized Convolutional Neural Network Accelerator", 2020 인공지능 반도체 설계 경진 대회(과학기술통신부), 우수상
 
 ## Publication
 * 쪽팔려서 안 알려줌
