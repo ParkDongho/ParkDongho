@@ -1,7 +1,7 @@
 # ParkDongho's GitHub
-AI H/W Designer
+AI-Chip Architect
 
-## Research Interest
+## Research Area
 * SoC Design
 * NPU Design
 * Deep Learning Model Compression
