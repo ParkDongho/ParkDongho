@@ -13,6 +13,6 @@ AI-Chip Architect
 
 ### 2022
 
-## Publication
+## Publications
 * 쪽팔려서 안알랴줌
 
