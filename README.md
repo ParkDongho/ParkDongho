@@ -5,6 +5,7 @@ AI-Chip Architect
 * NPU Architecture
   * Sparse Dataflow
   * Cross-Layer Computation
+  * NPU ISA
 * Deep Learning Model Compression
 
 ## Projects
