@@ -15,6 +15,7 @@ AI-Chip Architect
 ### 2021
 
 ### 2022
+* NPUGen - in progress
 
 ## Awards
 ### 2021
