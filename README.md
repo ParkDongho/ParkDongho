@@ -7,6 +7,7 @@ AI-Chip Architect
   * Cross-Layer Computation
   * NPU ISA
 * Deep Learning Model Compression
+* NPU Code Generator
 
 ## Projects
 ### 2020
