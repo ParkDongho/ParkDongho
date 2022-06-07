@@ -16,7 +16,6 @@ AI-Chip Architect
 
 ### 2022
 * NPUGen - in progress
-* Multi-Banked Buffet - in progress
 
 ## Awards
 ### 2021
