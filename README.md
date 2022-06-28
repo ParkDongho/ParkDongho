@@ -1,5 +1,4 @@
 # ParkDongho's GitHub
-AI-Chip Architect
 
 ## Research Area
 * NPU Architecture
