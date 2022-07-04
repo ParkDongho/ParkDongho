@@ -24,5 +24,5 @@
 ### 2022
 
 ## Publications
-* 국내 논문 2편 : 쪽팔려서 안알랴줌
+* 국내 논문 2편
 * digital design with chisel 번역 중...
