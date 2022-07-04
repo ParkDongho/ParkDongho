@@ -24,4 +24,4 @@
 
 ## Publications
 * 쪽팔려서 안알랴줌
-
+* digital design with chisel 번역 중...
