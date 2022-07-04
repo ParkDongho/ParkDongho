@@ -12,6 +12,7 @@
 ### 2020
 
 ### 2021
+* BNA
 
 ### 2022
 * NPUGen - in progress
