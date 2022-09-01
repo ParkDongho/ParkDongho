@@ -1,10 +1,7 @@
 # ParkDongho's GitHub
 
-## Research Area
+## Research Interest
 * NPU Architecture
-  * Sparse Dataflow
-  * Cross-Layer Computation
-  * NPU ISA
 * Deep Learning Model Compression
 * NPU Code Generator
 
