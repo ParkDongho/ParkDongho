@@ -7,8 +7,6 @@
 * NPU Code Generator
 
 ## Projects
-### 2020
-
 ### 2021
 * BNA [[code]](https://github.com/ParkDongho/BNA)
 
