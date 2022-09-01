@@ -1,4 +1,5 @@
 # ParkDongho's GitHub
+* 전남대학교 반도체 설계 동아리 VSDL 1대 회장
 
 ## Research Interest
 * NPU Architecture
