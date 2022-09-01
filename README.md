@@ -21,4 +21,4 @@
 
 ## Publications
 * 국내 논문 2편
-* digital design with chisel 번역 중...
+* digital design with chisel 번역 중... [[code]](https://github.com/ParkDongho/chisel-book-kr)
