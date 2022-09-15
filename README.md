@@ -4,6 +4,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center" align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkuldNorniern&show_icons=true&theme=cobalt" />
+  </a>
+<p/>
+<p align="center" align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=10&layout=compact&theme=cobalt" />
+  </a>
+<p/>
+
 
 * 전남대학교 반도체 설계 동아리 VSDL 회장 [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee)
 
