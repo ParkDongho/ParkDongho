@@ -1,4 +1,4 @@
-# ParkDongho's GitHub
+전남대학교 반도체 설계 동아리 VSDL 회장 [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee)
 
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,9 +10,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact" />
   </a>
 <p/>
-
-
-* 전남대학교 반도체 설계 동아리 VSDL 회장 [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee)
 
 ## Research Interest
 * NPU Architecture
