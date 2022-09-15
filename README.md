@@ -1,5 +1,5 @@
 ### About Me
-- RTL Design Engineer
+- Chisel 기반의 RTL Design을 주로 하고있습니다.
 - Design Verification도 조금씩 공부하고 있습니다.
 - 전남대학교 반도체 설계 동아리 VSDL 창설멤버(회장) [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee)
 
