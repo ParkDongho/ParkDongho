@@ -1,5 +1,6 @@
 # ParkDongho's GitHub
-![ParkDongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ParkDongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&theme=radical)
+
 * 전남대학교 반도체 설계 동아리 VSDL 회장 [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee)
 
 ## Research Interest
