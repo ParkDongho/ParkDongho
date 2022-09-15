@@ -4,17 +4,6 @@
 | ------------- | ------------- |
 
 
-<p align="center" align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&theme=radical" />
-  </a>
-<p/>
-<p align="center" align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact" />
-  </a>
-<p/>
-
 ## Research Interest
 * NPU Architecture
 * Deep Learning Model Compression
