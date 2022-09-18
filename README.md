@@ -6,6 +6,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<img src="https://img.shields.io/badge/Verilog-#181717?style=for-the-badge&logo=아이콘이름&logoColor=white">
 
 ### Research Interest
 * NPU Architecture
