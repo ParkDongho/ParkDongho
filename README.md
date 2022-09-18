@@ -15,8 +15,7 @@
 
 <div align="left">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
   
 ### About Me
@@ -25,9 +24,8 @@
 - 전남대학교 반도체 설계 동아리 VSDL 회장을 맞고 있습니다. [[동아리 소개 페이지]](https://parkdongho.notion.site/4d8ca2ce08674232a81e06e6d395b5ee) [[YouTube]]()
 
 
-  
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ### Research Interest
