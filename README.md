@@ -1,8 +1,19 @@
 <div align="center">
 
-# ParkDongho's GitHub
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DonghoPark&fontSize=90&fontColor=ffffff)
+
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkdongho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+<img align="center" alt="Chisel" src="https://img.shields.io/badge/Chisel-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/> 
+<img align="center" alt="Chisel" src="https://img.shields.io/badge/Verilog-008FC7.svg?&style=for-the-badge&logo=hardware&logoColor=white"/> 
+<img align="center" alt="Chisel" src="https://img.shields.io/badge/System Verilog-004088.svg?&style=for-the-badge&logo=hardware&logoColor=white"/>
+<img align="center" alt="C"      src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
+<img align="center" alt="Chisel" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> 
+<img align="center" alt="Scala"  src="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br/>
 
 <div align="left">
   
@@ -15,15 +26,6 @@
 | ------------- | ------------- |
   
 
-<div align="center">
-<img align="center" alt="Chisel" src="https://img.shields.io/badge/Chisel-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/> 
-<img align="center" alt="Chisel" src="https://img.shields.io/badge/Verilog-008FC7.svg?&style=for-the-badge&logo=hardware&logoColor=white"/> 
-<img align="center" alt="Chisel" src="https://img.shields.io/badge/System Verilog-004088.svg?&style=for-the-badge&logo=hardware&logoColor=white"/>
-<img align="center" alt="C"      src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
-<img align="center" alt="Chisel" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> 
-<img align="center" alt="Scala"  src="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br/>
-</div>
 
 
 
