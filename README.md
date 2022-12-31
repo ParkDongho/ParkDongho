@@ -31,6 +31,7 @@
 ### Research Interest
 * NPU Architecture
 * Deep Learning Model Compression
+* Design Space Exploration
 * NPU Code Generator
 
 ### Projects
