@@ -7,7 +7,7 @@
 
 
 ### Research Interest
-* Sparse DNN Architecture
+* Sparse DNN Accelerator
 * NPU Code Generator
 
 ### Projects
