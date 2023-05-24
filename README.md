@@ -9,6 +9,8 @@
 ### Research Interest
 * Sparse DNN Accelerator
 * NPU Code Generator
+* NoC Code Generator
+* Design Space Exploration
 
 ### Projects
 * BNA [[code]](https://github.com/ParkDongho/BNA)
