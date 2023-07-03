@@ -1,11 +1,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parkdongho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdongho&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
-### About Me
-- Chisel 기반의 RTL Design을 주로 합니다.
-- Design Verification 또한 조금씩 공부하고 있습니다.
-
-
 ### Research Interest
 * Sparse DNN Accelerator
 * NPU Code Generator
