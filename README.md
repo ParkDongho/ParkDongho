@@ -2,7 +2,7 @@
 | ------------- | ------------- | 
 
 ### Research Interest
-* Sparse DNN Accelerator
+* Sparse DNN Accelerator (zero-skipping)
 * NPU Code Generator
 * NoC Code Generator
 * Design Space Exploration
