@@ -5,7 +5,7 @@
 * DNN Accelerator 
 * NPU Code Generator
 * Design Space Exploration
-* DNN Compiler (MLIR)
+* DNN Compiler (Polyhedral Compiler & MLIR)
 
 ### Projects
 * BNA [[code]](https://github.com/ParkDongho/BNA)
