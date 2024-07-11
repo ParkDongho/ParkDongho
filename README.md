@@ -1,6 +1,6 @@
 
 ### Research Interest
-* Architecture Modeling Software
+* Dataflow Modeling 
 * RTL Code Generator
 * Design Space Exploration
 * DNN Compiler
